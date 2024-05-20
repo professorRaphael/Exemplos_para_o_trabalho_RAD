@@ -1,6 +1,6 @@
 # Exemplos de Projetos de Rápida Python
 
-Este repositório contém três projetos de exemplo desenvolvidos para os alunos do curso Rápida Python. Esses exemplos visam ilustrar o uso do Tkinter para criar interfaces gráficas em Python e a integração com o banco de dados SQLite.
+Este repositório contém três projetos de exemplo desenvolvidos para os alunos de Programação Rápida Python. Esses exemplos visam ilustrar o uso do Tkinter para criar interfaces gráficas em Python e a integração com o banco de dados SQLite.
 
 # Projetos
 1. Lista de Contatos
