@@ -1,6 +1,4 @@
-# Exemplos anti copia 🕵️‍♂️
-
-## Livraria Tkinter
+# Livraria Tkinter
 
 Este projeto é um exemplo de aplicação de gerenciamento de livros utilizando a biblioteca Tkinter para a interface gráfica e SQLite para o banco de dados. Este exemplo foi criado para a turma de Programação Rápida Python como um ponto de partida para seus próprios projetos. ***Ele contém propositalmente algumas falhas e áreas de melhoria, incentivando os alunos a corrigir e aprimorar o código.***
 
