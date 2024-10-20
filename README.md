@@ -35,3 +35,10 @@ Este repositório contém três projetos de exemplo desenvolvidos para os alunos
      - Exibir todos os registros.
      - Limpar os resultados da pesquisa e exibir todos os registros novamente.
      - Interface gráfica com Tkinter.
+
+4. Exemplo de Login
+   - Um exemplo de aplicação que permite o cadastro de um usuário e fazer o Login.
+  
+   - Funcionalidades
+      - Cadastrar usuário.
+      - Fazer Login.
