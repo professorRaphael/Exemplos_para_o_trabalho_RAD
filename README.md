@@ -7,6 +7,7 @@ Este repositório contém três projetos de exemplo desenvolvidos para os alunos
 ## Projetos
 
 1. Lista de Contatos
+   
    - Um sistema de gerenciamento de contatos que permite adicionar, atualizar, deletar e visualizar contatos armazenados em um banco de dados SQLite.
 
    - Funcionalidades
@@ -16,7 +17,8 @@ Este repositório contém três projetos de exemplo desenvolvidos para os alunos
      - Exibir todos os contatos em uma tabela.
      - Interface gráfica com Tkinter.
 
-2. Sistema de Gerenciamento de Livros
+3. Sistema de Gerenciamento de Livros
+   
    - Outro exemplo de sistema de gerenciamento de livros com funcionalidades similares ao primeiro, mas com uma interface e implementação ligeiramente diferentes.
 
    - Funcionalidades
@@ -26,7 +28,8 @@ Este repositório contém três projetos de exemplo desenvolvidos para os alunos
      - Exibir todos os livros em uma tabela.
      - Interface gráfica com Tkinter.
 
-3. Exemplo de Pesquisa
+4. Exemplo de Pesquisa
+   
    - Um exemplo de aplicação que permite pesquisar membros em um banco de dados SQLite pelo nome ou email.
 
    - Funcionalidades
@@ -36,9 +39,20 @@ Este repositório contém três projetos de exemplo desenvolvidos para os alunos
      - Limpar os resultados da pesquisa e exibir todos os registros novamente.
      - Interface gráfica com Tkinter.
 
-4. Exemplo de Login
+5. Exemplo de Login
+   
    - Um exemplo de aplicação que permite o cadastro de um usuário e fazer o Login.
   
    - Funcionalidades
       - Cadastrar usuário.
       - Fazer Login.
+    
+6. Exemplo de Totem de Estácionamento
+    
+     - Um exemplo funcional de entrada, pagamento e saída de um estácionamento.
+  
+     - Funcionalidades:
+          - Controle de acesso por tempo.
+          - Logs de controle
+          - json de controle
+          - Comprovante
