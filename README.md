@@ -56,3 +56,14 @@ Este repositório contém três projetos de exemplo desenvolvidos para os alunos
           - Logs de controle
           - json de controle
           - Comprovante
+
+7. Exemplo de ponta de linha Industrial
+    
+     - Um exemplo funcional de entrada, controle e justificativa de um sistema industrial.
+  
+     - Funcionalidades:
+          - Bipagem Assistida.
+          - Persistência Resiliente
+          - Controle de Qualidade Condicional
+          - Auditoria por Log
+      
