@@ -66,3 +66,13 @@ Este repositório contém três projetos de exemplo desenvolvidos para os alunos
           - Persistência Resiliente
           - Controle de Qualidade Condicional
           - Auditoria por Log
+
+8. Exemplo de Terminal de Onboarding de RH (HR-Valida)
+    
+     - Um terminal local de pré-cadastro corporativo atuando como barreira sanitária de dados (Data Gatekeeper) para garantir que informações sensíveis sejam validadas antes de salvar no banco.
+  
+     - Funcionalidades:
+          - Motor de validação avançado com Expressões Regulares (Regex).
+          - Verificação lógica e matemática (ex: dígito verificador de CPF e datas).
+          - Feedback visual dinâmico apontando o erro exato na interface.
+          - Proteção de integridade local contra registros duplicados.
